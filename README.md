@@ -26,8 +26,8 @@ png.py - PNG encoder/decoder in pure Python
     
 **Examples**
 ```    
-    python3 main.py input_file.png
-    python3 main.py -w input.png -f input.txt output.png
-    python3 main.py -w input.png -t 'random text' output.png
-    python3 main.py -w input.png 'random text' output.png
+python3 main.py input_file.png
+python3 main.py -w input.png -f input.txt output.png
+python3 main.py -w input.png -t 'random text' output.png
+python3 main.py -w input.png 'random text' output.png
 ```
